@@ -17,6 +17,8 @@
 #endif
 
 #include <cr_section_macros.h>
+// TODO: add CLINT library
+// TODO: test the library
 
 // TODO: insert other include files here
 
